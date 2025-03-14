@@ -2,7 +2,7 @@
 The source code and deployment for spectre proxy by Phantom Network.
 Currently uses Ultraviolet proxy and Ultraviolet backend scripts for a seamless experience.
 Also uses bare server. (IM SORRY IM UPGRADING EVERYTHING SOON).
-(please don't be stupid and don't deploy this via npm on a WSL instance)
+(please be smart and deploy this via npm on a WSL instance)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
